@@ -1,0 +1,19 @@
+.App {
+  margin: auto;
+  margin-top: 100px;
+  border: 30px solid rgb(151, 153, 133);
+  border-radius: 2rem;
+  padding: 30px;
+  width: 40%;
+  background-color: white;
+}
+body {
+  background-color: antiquewhite;
+}
+hr {
+  border: none;
+  height: 5px;
+  /* Set the hr color */
+  color: #333; /* old IE */
+  background-color: #333; /* Modern Browsers */
+}

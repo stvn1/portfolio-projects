@@ -1,0 +1,41 @@
+button {
+  padding: 7px;
+  border-radius: 2rem;
+  border: none;
+  margin: 2px;
+  background-color: rgba(128, 128, 128, 0.212);
+}
+button:hover {
+  background-color: rgba(137, 145, 143, 0.712);
+}
+.note {
+  color: rgba(128, 128, 128, 0.37);
+}
+/* #educationList {
+  padding: 2px;
+  margin: 2px;
+  text-align: left;
+} */
+.educationList {
+  text-align: left;
+  display: flex;
+  justify-content: space-between;
+  padding: 5px;
+}
+.educationItem {
+  border-left: 5px solid rgba(0, 0, 0, 0.267);
+  border-radius: 0.2cm;
+  width: 400px;
+}
+.deleteItemButton {
+  margin: auto;
+}
+.educationItemhr {
+}
+/* The Close Button */
+.close {
+  color: white;
+  float: right;
+  font-size: 28px;
+  font-weight: bold;
+}

@@ -1,0 +1,14 @@
+#jobDescription {
+  height: 60px;
+}
+
+.workItem {
+  border-left: 5px solid rgba(0, 0, 0, 0.267);
+  border-radius: 0.2cm;
+  width: 400px;
+  padding: 2px;
+}
+.workList {
+  display: flex;
+  padding: 2px;
+}
